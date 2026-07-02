@@ -1,0 +1,10 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5312","Area harvested","01610","Coffee, green","1987","1987","ha","110000","E","Estimated value",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5412","Yield","01610","Coffee, green","1987","1987","kg/ha","524.1","E","Estimated value",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5510","Production","01610","Coffee, green","1987","1987","t","57653","A","Official figure",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5312","Area harvested","01610","Coffee, green","1988","1988","ha","110000","E","Estimated value",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5412","Yield","01610","Coffee, green","1988","1988","kg/ha","413.7","E","Estimated value",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5510","Production","01610","Coffee, green","1988","1988","t","45510","A","Official figure",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5312","Area harvested","01610","Coffee, green","1989","1989","ha","125000","E","Estimated value",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5412","Yield","01610","Coffee, green","1989","1989","kg/ha","390.4","E","Estimated value",""
+"QCL","Crops and livestock products","834","United Republic of Tanzania","5510","Production","01610","Coffee, green","1989","1989","t","48800","A","Official figure",""
